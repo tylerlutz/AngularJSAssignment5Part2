@@ -10,8 +10,8 @@ title: Tyler Lutz
 email: tlutzdesigns@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Providing simple and easy to follow AngularJS tutorials since 2016! For more information, view my GitHub repos. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/AngularJSAssignment5Part2" # the subpath of your site, e.g. /blog
+url: "http://tylerlutz.github.io" # the base hostname & protocol for your site
 twitter_username: tyler_lutz12
 github_username:  tylerlutz
 
