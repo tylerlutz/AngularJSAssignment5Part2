@@ -150,7 +150,7 @@ To sync up the `searchTutorials` model to the list of tutorials, we need to add 
 <br />
 
 <h3>Summary</h3>
-This tutorial is finally complete. You now have a simple AngularJS web application that pulls data from an external JSON file and displays it to a web page. The list is also searchable using the power of AngularJS filters. To view the source code in its entirety, view the <a href="https://github.com/tylerlutz/AngularJSAssignment5Part1">GitHub repo</a>. For more information on AngularJS, check out the <a href="https://docs.angularjs.org/">AngularJS Doc</a>.
+This tutorial is finally complete. You now have a simple AngularJS web application that pulls data from an external JSON file and displays it to a web page. The list is also searchable using the power of AngularJS filters. To view the source code in its entirety, view the <a href="https://github.com/tylerlutz/AngularJSAssignment5Part1" target="_blank">GitHub repo</a>. For more information on AngularJS, check out the <a href="https://docs.angularjs.org/" target="_blank">AngularJS Doc</a>.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
