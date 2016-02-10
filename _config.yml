@@ -14,7 +14,7 @@ title:            Tyler Lutz
 tagline:          'Developer'
 description:      'Providing simple and easy to follow AngularJS tutorials since 2016!'
 url:              http://tylerlutz.github.io
-baseurl:          /AngularJSAssignment5Part2/
+baseurl:          /AngularJSAssignment5Part2
 
 author:
   name:           'Tyler Lutz'
