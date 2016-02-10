@@ -141,6 +141,7 @@ Finally we want to be able to search the tutorials using AngularJS. To do this, 
 {% highlight html %}
 <input type="text" class="form-control" ng-model="searchTutorials" placeholder="Search Tutorials">
 {% endhighlight %} 
+<img src="/img/tutorialsSearch.png">
 <br />
 To sync up the `searchTutorials` model to the list of tutorials, we need to add the filter property to the `ng-repeat` directive by using a pipe.
 {% highlight html %}
