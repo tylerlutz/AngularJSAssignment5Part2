@@ -9,7 +9,7 @@ This tutorial was created to show you the basics of using AngularJS. This simple
 <br />
 <h3>Requirements</h3>
 
-Before getting started, there are several requirements needed. These requirements are listed below and can be obtained by using Bower. To use Bower, Node Package Manager(npm) needs to be installed onto your system. To install npm, follow <a href="https://docs.npmjs.com/cli/install">this</a> tutorial. 
+Before getting started, there are several requirements needed. These requirements are listed below and can be obtained by using Bower. To use Bower, Node Package Manager(npm) needs to be installed onto your system. To install npm, follow <a href="https://docs.npmjs.com/cli/install" target="_blank">this</a> tutorial. 
 <ul>
 	<li>Bootstrap</li>
 	<li>AngularJS</li>
